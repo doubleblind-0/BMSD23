@@ -1,5 +1,5 @@
 
-# Additional Documents for the BMSD23 double-blind revew.
+# Additional Documents for the BMSD23 double-blind review.
 
 
 This repository hosts the additional files for the BMSD23 paper under review.
